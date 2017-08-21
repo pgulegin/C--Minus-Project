@@ -1,0 +1,8 @@
+E -> T Ep
+Ep -> + T Ep
+Ep -> empty
+T -> F Tp
+Tp -> * F Tp
+Tp -> empty
+F -> ( E )
+F -> id

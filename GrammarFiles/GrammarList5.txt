@@ -1,0 +1,8 @@
+A :: empty
+A :: A * X
+A :: X
+X :: Q
+X :: empty
+Q :: Q ~ X
+Q :: a
+Q :: b

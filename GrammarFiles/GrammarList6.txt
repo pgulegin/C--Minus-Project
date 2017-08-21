@@ -1,0 +1,7 @@
+S :: if E then S Q
+S :: a
+S :: b
+E :: x
+E :: y
+Q :: else S
+Q :: empty
