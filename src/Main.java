@@ -30,18 +30,18 @@ public class Main
 //		parser.printFirstToFile();
 //		parser.printFollowToFile();
 
+        // prints all states to file
+//		slrstate.printToFile();
+
+        // prints slr table to file
+//		slrtable.printToFile();
+
         // prints first and follow to console
         parser.printFirstToConsole();
         parser.printFollowToConsole();
 
-        // prints all states to file
-//		slrstate.printToFile();
-
         // prints all states to console
         slrstate.printToConsole();
-
-        // prints slr table to file
-//		slrtable.printToFile();
 
         // prints slr table to console
         slrtable.printToConsole();
