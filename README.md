@@ -4,13 +4,13 @@ This was a project for my Compilers class at CSULA.
 It mirrors the C- Minus Project and incorporates the grammar rules established from the project.
 
 ## Table of Contents
-[Key Features](#key-features)
-[Installation](#installation)
-[Functionality](#functionality)
-   [Input](#input)
-   [Output](#output)
-   [Writing To File](#writing-to-file)
-[Support](#support)
+- [Key Features](#key-features)
+- [Installation](#installation)
+- [Functionality](#functionality)
+   - [Input](#input)
+   - [Output](#output)
+   - [Writing To File](#writing-to-file)
+- [Support](#support)
 
 ## Key Features
 
