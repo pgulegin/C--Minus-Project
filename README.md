@@ -1,7 +1,8 @@
-# C- Minus Project
+# Description
 
 This was a project for my Compilers class at CSULA. 
-It mirrors the C- Minus Project and incorporates the grammar rules established from the project.
+It mirrors the C- Minus Project and incorporates the grammar rules established from that project.
+Essentially, when given a grammar it will output the state rules and all of that relevent information used to get to those rules.
 
 ## Table of Contents
 - [Key Features](#key-features)
@@ -25,6 +26,10 @@ It mirrors the C- Minus Project and incorporates the grammar rules established f
    - State Set
 
 ## Installation
+
+This project is designed to run within any Java IDE. 
+I was using IntelliJ IDEA, so one can clone the project and run it in IntelliJ IDEA. 
+Or, alternatively, one could just download the source files individually and run the project from any IDE.
 
 ## Functionality
 
